@@ -522,7 +522,7 @@ img {
     font-weight: 500;
     line-height: 1.5;
     letter-spacing: 0.02em;
-    color: var(--bg-color_main);
+    color: #ffffff;
     margin-bottom: 16px;
 }
 
@@ -537,9 +537,9 @@ img {
     font-size: 12px;
     line-height: 1.5;
     letter-spacing: 0.04em;
-    color: var(--title-color_light);
+    color: #ffffff;
     background-color: transparent;
-    border: 1px solid var(--bg-color_main);
+    border: 1px solid #ffffff;
     filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.15));
     border-radius: 4px;
     padding-left: 16px;
@@ -551,7 +551,7 @@ img {
     line-height: 1.5;
     align-items: center;
     letter-spacing: 0.04em;
-    color: var(--title-color_light);
+    color: #ffffff;
 }
 
 .subscribe-btn {
@@ -564,7 +564,7 @@ img {
     min-width: 165px;
     height: 40px;
     padding: 8px 24px;
-    background-color: var(--btn-color_primar);
+    background-color: #4d5ae5;
     font-family: inherit;
     font-weight: 500;
     border: none;
@@ -577,12 +577,12 @@ img {
 }
 
 .subscribe-icon {
-    fill: var(--bg-color_main);
+    fill: #ffffff;
     margin-left: 16px;
 }
 
 .subscribe-btn:hover {
-    background-color: var(--btn-color_second);
+    background-color: #f4f4fd;
 }
 
 /*!============== MODAL ==============*/
