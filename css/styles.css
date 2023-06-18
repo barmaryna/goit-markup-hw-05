@@ -10,7 +10,7 @@
     --success-color: #31d0aa;
     --modal-overlay-color: rgba(46, 47, 66, 0.4);
     --bebebe-color: rgba(46, 47, 66, 0.7);
-    --white-background-color: #FFFFFF;
+    --white-background-color: # ffffff;
     --modal-background-color: #fcfcfc;
     --transition: 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
