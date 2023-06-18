@@ -32,14 +32,26 @@ p {
     margin: 0;
 }
 
-p {
-    margin: 0;
+input,
+button,
+label {
+    font-family: inherit;
+    color: currentColor;
 }
 
 ul {
     list-style: none;
     padding-left: 0;
     margin: 0;
+}
+
+a {
+    text-decoration: none;
+}
+
+img {
+    display: block;
+    width: 100%;
 }
 
 .link {
@@ -557,7 +569,6 @@ img {
 .subscribe-btn {
     cursor: pointer;
     display: flex;
-
     align-items: center;
     justify-content: center;
     align-self: flex-end;
