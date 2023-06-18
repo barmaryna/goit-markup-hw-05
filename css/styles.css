@@ -572,7 +572,7 @@ img {
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.04em;
-    color: var(--bg-color_main);
+    color: var(#ffffff);
     transition: background-color var(--transition);
 }
 
